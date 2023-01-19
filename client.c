@@ -1,6 +1,6 @@
 /*
-MT2021039
-DHEER VARYANI
+MT2020011
+K Sambhavi Apurva
 Client side:
 socket->connect->send/recv->close
 */
